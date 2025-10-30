@@ -10,4 +10,3 @@ This repository contains simple **Shell scripts** for automation and system mana
 ```bash
 git clone https://github.com/JoelAugustine-92/Shell-scripting.git
 
-
